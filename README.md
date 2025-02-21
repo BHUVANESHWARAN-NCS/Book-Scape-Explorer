@@ -1,5 +1,5 @@
 # Book-Scape-Explorer
-1. Book_Scape (Project-2) - Jupyter Notebook
+1. Book_Scape - Jupyter Notebook
 •	Tool Used: Jupyter Notebook
 •	Purpose:
 o	Used for data extraction and cleaning.
